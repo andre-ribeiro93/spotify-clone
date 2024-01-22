@@ -5,5 +5,5 @@ Minha ideia é transforma-la em uma aplicação React, mas decidi esperar e segu
 <br>
 `#ImersãoFrontEnd` `#Alura`
 
-## Link da Aplicação
+## Link da aplicação
 https://andre-ribeiro93.github.io/spotify-clone/
